@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "DrivableMap",
+      "setup": "",
+      "run": "gradle test --tests DrivableMapTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "DrivableTrader",
+      "setup": "",
+      "run": "gradle test --tests DrivableTraderTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Trader",
+      "setup": "",
+      "run": "gradle test --tests TraderTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
