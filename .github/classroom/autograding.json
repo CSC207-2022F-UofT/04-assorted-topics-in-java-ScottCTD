@@ -8,7 +8,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 1
     },
     {
       "name": "DrivableTrader",
@@ -18,7 +18,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 1
     },
     {
       "name": "Trader",
@@ -28,7 +28,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 1
     }
   ]
 }
